@@ -9,7 +9,7 @@ let Layout = ({setPaint,setWheel,wheel,paint})=>{
         <div  className="w-full h-full bg-black">
         <div className="ml-10 mt-5">
             <h2 className="text-white font-mono text-2xl">MODELS</h2>
-            <h1 className="text-white font-mono text-6xl">URUS</h1>
+            <h1 className="text-white font-mono text-6xl">CAR</h1>
         </div>
         <div className="ml-10 mt-16 flex flex-row gap-16">
                 <p className="text-white text-2xl">model <span className={`text-[#DB9B3A]`}>2022</span></p>
